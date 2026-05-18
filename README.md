@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=merendemirtas)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **merendemirtas/merendemirtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
