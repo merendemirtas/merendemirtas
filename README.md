@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=merendemirtas&hide=stars,followers,pullrequest,issues,reviews)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=merendemirtas&hide=Stars,Followers,PullRequest,Issues,Reviews&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 **merendemirtas/merendemirtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
